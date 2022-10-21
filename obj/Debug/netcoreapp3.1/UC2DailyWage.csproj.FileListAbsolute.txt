@@ -1,0 +1,14 @@
+D:\Priti\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.csproj.AssemblyReference.cache
+D:\Priti\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Priti\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.AssemblyInfoInputs.cache
+D:\Priti\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.AssemblyInfo.cs
+D:\Priti\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.csproj.CoreCompileInputs.cache
+D:\Priti\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.exe
+D:\Priti\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.deps.json
+D:\Priti\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.runtimeconfig.json
+D:\Priti\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.runtimeconfig.dev.json
+D:\Priti\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.dll
+D:\Priti\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.pdb
+D:\Priti\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.dll
+D:\Priti\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.pdb
+D:\Priti\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.genruntimeconfig.cache
